@@ -18,4 +18,4 @@ devops-hz2-environment/
 ├─ README.md
 └─ requirements.txt
 
-> Diese Änderung dient als Nachweis für Branch-Management in HZ3.
+
