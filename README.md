@@ -17,3 +17,5 @@ devops-hz2-environment/
 ├─ .gitignore
 ├─ README.md
 └─ requirements.txt
+
+> Diese Änderung dient als Nachweis für Branch-Management in HZ3.
