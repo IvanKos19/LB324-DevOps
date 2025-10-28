@@ -1,0 +1,19 @@
+# Lokale Entwicklungsumgebung (HZ2 – Beginner)
+
+## Ziel
+Dieses Dokument beschreibt meine lokale Entwicklungsumgebung für das DevOps-Modul M324 (HZ2).
+
+## Umgebung
+Ich arbeite mit:
+- Visual Studio Code als Haupteditor
+- Git für Versionskontrolle
+- Python 3.x als Programmiersprache
+
+## Setup-Schritte
+1. Neues Projektverzeichnis `devops-hz2-environment` erstellt  
+2. Git-Repository initialisiert  
+3. README.md, .gitignore, src/ und docs/ Ordner angelegt  
+4. Python-Datei `src/main.py` erstellt und getestet  
+
+## Test
+Im Terminal ausgeführt:

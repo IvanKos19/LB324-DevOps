@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Environments
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
